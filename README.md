@@ -74,7 +74,10 @@ This Power BI dashboard provides a comprehensive analysis of **AtliQ Mart's** su
 2. Connect to the dataset by downloading left side or clicking ➡️➡️ https://github.com/SagSalvatore/SUPPLY-CHAIN-DASHBOARD/blob/main/SUPPLY%20CHAIN.zip
 3. Use the **interactive slicers and filters** to explore the data dynamically.
 4. Contains screenshots of the dashboard for easy preview:  
-   ![Supply Chain Dashboard](https://github.com/user-attachments/assets/your-screenshot-link)
+   
+![sc-1](https://github.com/user-attachments/assets/79ae12bf-6b59-4608-9bed-35226fbd101f)
+![sc-2](https://github.com/user-attachments/assets/aae96862-8cdf-4246-a661-8e097e74b861)
+![sc-3](https://github.com/user-attachments/assets/3543de6e-542a-4f91-bdd8-c027b52d016c)
 
 ---
 
